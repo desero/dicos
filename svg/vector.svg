@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 12.5C4.82843 12.5 5.5 11.8284 5.5 11C5.5 10.1716 4.82843 9.5 4 9.5C3.17157 9.5 2.5 10.1716 2.5 11C2.5 11.8284 3.17157 12.5 4 12.5Z" fill="black"/>
+<path d="M28 12.5C28.8284 12.5 29.5 11.8284 29.5 11C29.5 10.1716 28.8284 9.5 28 9.5C27.1716 9.5 26.5 10.1716 26.5 11C26.5 11.8284 27.1716 12.5 28 12.5Z" fill="black"/>
+<path d="M16 14C17.6569 14 19 12.6569 19 11C19 9.34315 17.6569 8 16 8C14.3431 8 13 9.34315 13 11C13 12.6569 14.3431 14 16 14Z" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M6 24C7.65685 24 9 22.6569 9 21C9 19.3431 7.65685 18 6 18C4.34315 18 3 19.3431 3 21C3 22.6569 4.34315 24 6 24Z" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M26 24C27.6569 24 29 22.6569 29 21C29 19.3431 27.6569 18 26 18C24.3431 18 23 19.3431 23 21C23 22.6569 24.3431 24 26 24Z" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M19 11.4C22.1 12.4 24.6 14.8 25.6 18" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M6.4 18C7.4 14.9 9.8 12.4 13 11.4" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M13 11H5" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M27 11H19" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+</svg>
